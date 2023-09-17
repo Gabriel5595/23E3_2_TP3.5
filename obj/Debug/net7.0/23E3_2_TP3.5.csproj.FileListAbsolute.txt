@@ -1,0 +1,14 @@
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP3\23E3_2_TP3.5\bin\Debug\net7.0\23E3_2_TP3.5.exe
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP3\23E3_2_TP3.5\bin\Debug\net7.0\23E3_2_TP3.5.deps.json
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP3\23E3_2_TP3.5\bin\Debug\net7.0\23E3_2_TP3.5.runtimeconfig.json
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP3\23E3_2_TP3.5\bin\Debug\net7.0\23E3_2_TP3.5.dll
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP3\23E3_2_TP3.5\bin\Debug\net7.0\23E3_2_TP3.5.pdb
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP3\23E3_2_TP3.5\obj\Debug\net7.0\23E3_2_TP3.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP3\23E3_2_TP3.5\obj\Debug\net7.0\23E3_2_TP3.5.AssemblyInfoInputs.cache
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP3\23E3_2_TP3.5\obj\Debug\net7.0\23E3_2_TP3.5.AssemblyInfo.cs
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP3\23E3_2_TP3.5\obj\Debug\net7.0\23E3_2_TP3.5.csproj.CoreCompileInputs.cache
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP3\23E3_2_TP3.5\obj\Debug\net7.0\23E3_2_TP3.5.dll
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP3\23E3_2_TP3.5\obj\Debug\net7.0\refint\23E3_2_TP3.5.dll
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP3\23E3_2_TP3.5\obj\Debug\net7.0\23E3_2_TP3.5.pdb
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP3\23E3_2_TP3.5\obj\Debug\net7.0\23E3_2_TP3.5.genruntimeconfig.cache
+C:\Users\gribe\OneDrive\Documentos\Codes\INFNET\2023.2\Fundamentos de Desenvolvimento com C#\TPs\TP3\23E3_2_TP3.5\obj\Debug\net7.0\ref\23E3_2_TP3.5.dll
